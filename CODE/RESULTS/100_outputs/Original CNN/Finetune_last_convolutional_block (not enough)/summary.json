@@ -1,0 +1,85 @@
+{
+    "timestamp": "2025-05-31_19-17-50",
+    "filename": "finetune_last_convolutional_block",
+    "note": "Unfrozen the last convolutional block after removing 500 samples of age 26.",
+    "weights_file": "/content/drive/Shareddrives/deep learning/FACIAL_EMOTION_RECOGNITION/checkpoints/2025-05-31_19-17-50_finetune_last_convolutional_block/weights.weights.h5",
+    "epochs": 10,
+    "final_train_accuracy": 0.2576429843902588,
+    "final_val_accuracy": 0.14988425374031067,
+    "final_train_loss": 2.5301153659820557,
+    "final_val_loss": 3.150895118713379,
+    "best_val_accuracy": 0.15567129850387573,
+    "epoch_data": [
+        {
+            "epoch": 1,
+            "train_accuracy": 0.24913707375526428,
+            "val_accuracy": 0.15567129850387573,
+            "train_loss": 2.554264783859253,
+            "val_loss": 3.1337311267852783
+        },
+        {
+            "epoch": 2,
+            "train_accuracy": 0.2496301829814911,
+            "val_accuracy": 0.15509259700775146,
+            "train_loss": 2.561253309249878,
+            "val_loss": 3.1344387531280518
+        },
+        {
+            "epoch": 3,
+            "train_accuracy": 0.25363659858703613,
+            "val_accuracy": 0.15393517911434174,
+            "train_loss": 2.5520107746124268,
+            "val_loss": 3.136887788772583
+        },
+        {
+            "epoch": 4,
+            "train_accuracy": 0.25400641560554504,
+            "val_accuracy": 0.1545138955116272,
+            "train_loss": 2.550839424133301,
+            "val_loss": 3.1378750801086426
+        },
+        {
+            "epoch": 5,
+            "train_accuracy": 0.2531434893608093,
+            "val_accuracy": 0.15393517911434174,
+            "train_loss": 2.5576324462890625,
+            "val_loss": 3.139864921569824
+        },
+        {
+            "epoch": 6,
+            "train_accuracy": 0.25351330637931824,
+            "val_accuracy": 0.15306712687015533,
+            "train_loss": 2.5425779819488525,
+            "val_loss": 3.1403045654296875
+        },
+        {
+            "epoch": 7,
+            "train_accuracy": 0.2511711120605469,
+            "val_accuracy": 0.1519097238779068,
+            "train_loss": 2.546870470046997,
+            "val_loss": 3.144458293914795
+        },
+        {
+            "epoch": 8,
+            "train_accuracy": 0.2552391588687897,
+            "val_accuracy": 0.15219907462596893,
+            "train_loss": 2.5406785011291504,
+            "val_loss": 3.147085428237915
+        },
+        {
+            "epoch": 9,
+            "train_accuracy": 0.2522805631160736,
+            "val_accuracy": 0.14901620149612427,
+            "train_loss": 2.531589984893799,
+            "val_loss": 3.147116184234619
+        },
+        {
+            "epoch": 10,
+            "train_accuracy": 0.2576429843902588,
+            "val_accuracy": 0.14988425374031067,
+            "train_loss": 2.5301153659820557,
+            "val_loss": 3.150895118713379
+        }
+    ],
+    "plot_file": "/content/drive/Shareddrives/deep learning/FACIAL_EMOTION_RECOGNITION/checkpoints/2025-05-31_19-17-50_finetune_last_convolutional_block/plot.png"
+}

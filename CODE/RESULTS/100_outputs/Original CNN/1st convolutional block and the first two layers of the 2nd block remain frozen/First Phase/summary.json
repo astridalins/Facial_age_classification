@@ -1,0 +1,85 @@
+{
+    "timestamp": "2025-05-28_11-23-19",
+    "filename": "finetune_last_15_layers",
+    "note": "Descongelades 15 \u00faltimes capes CNN amb lr = 0.001 ",
+    "weights_file": "/content/drive/Shareddrives/deep learning/FACIAL_EMOTION_RECOGNITION/checkpoints/2025-05-28_11-23-19_finetune_last_15_layers/weights.weights.h5",
+    "epochs": 10,
+    "final_train_accuracy": 0.20106016099452972,
+    "final_val_accuracy": 0.14959490299224854,
+    "final_train_loss": 2.853445053100586,
+    "final_val_loss": 3.1840693950653076,
+    "best_val_accuracy": 0.15625,
+    "epoch_data": [
+        {
+            "epoch": 1,
+            "train_accuracy": 0.09375,
+            "val_accuracy": 0.12355323880910873,
+            "train_loss": 4.001306533813477,
+            "val_loss": 3.5781190395355225
+        },
+        {
+            "epoch": 2,
+            "train_accuracy": 0.12000739574432373,
+            "val_accuracy": 0.1484375,
+            "train_loss": 3.479179620742798,
+            "val_loss": 3.295377731323242
+        },
+        {
+            "epoch": 3,
+            "train_accuracy": 0.13017751276493073,
+            "val_accuracy": 0.15046297013759613,
+            "train_loss": 3.3258731365203857,
+            "val_loss": 3.235830307006836
+        },
+        {
+            "epoch": 4,
+            "train_accuracy": 0.14361439645290375,
+            "val_accuracy": 0.15335647761821747,
+            "train_loss": 3.2347991466522217,
+            "val_loss": 3.1613543033599854
+        },
+        {
+            "epoch": 5,
+            "train_accuracy": 0.15378451347351074,
+            "val_accuracy": 0.14467592537403107,
+            "train_loss": 3.1570258140563965,
+            "val_loss": 3.1937947273254395
+        },
+        {
+            "epoch": 6,
+            "train_accuracy": 0.15797583758831024,
+            "val_accuracy": 0.1467013955116272,
+            "train_loss": 3.0930113792419434,
+            "val_loss": 3.138669967651367
+        },
+        {
+            "epoch": 7,
+            "train_accuracy": 0.17332346737384796,
+            "val_accuracy": 0.1440972238779068,
+            "train_loss": 3.0301263332366943,
+            "val_loss": 3.224562644958496
+        },
+        {
+            "epoch": 8,
+            "train_accuracy": 0.18096646666526794,
+            "val_accuracy": 0.15625,
+            "train_loss": 2.9830596446990967,
+            "val_loss": 3.154890298843384
+        },
+        {
+            "epoch": 9,
+            "train_accuracy": 0.189287468791008,
+            "val_accuracy": 0.1519097238779068,
+            "train_loss": 2.9079089164733887,
+            "val_loss": 3.161591053009033
+        },
+        {
+            "epoch": 10,
+            "train_accuracy": 0.20106016099452972,
+            "val_accuracy": 0.14959490299224854,
+            "train_loss": 2.853445053100586,
+            "val_loss": 3.1840693950653076
+        }
+    ],
+    "plot_file": "/content/drive/Shareddrives/deep learning/FACIAL_EMOTION_RECOGNITION/checkpoints/2025-05-28_11-23-19_finetune_last_15_layers/plot.png"
+}

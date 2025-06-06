@@ -1,0 +1,155 @@
+{
+    "timestamp": "2025-06-01_12-46-22",
+    "filename": "2 convolutional blocks frozen",
+    "note": "Didn't work well, because 100 classes inted of 7 need more more layers unfrozen",
+    "weights_file": "/content/drive/Shareddrives/deep learning/FACIAL_EMOTION_RECOGNITION/checkpoints/2025-06-01_12-46-22_2 convolutional blocks frozen/weights.weights.h5",
+    "epochs": 20,
+    "final_train_accuracy": 0.2413708120584488,
+    "final_val_accuracy": 0.14959490299224854,
+    "final_train_loss": 2.7800238132476807,
+    "final_val_loss": 3.2162537574768066,
+    "best_val_accuracy": 0.1501736044883728,
+    "epoch_data": [
+        {
+            "epoch": 1,
+            "train_accuracy": 0.051466964185237885,
+            "val_accuracy": 0.0998263880610466,
+            "train_loss": 4.9246978759765625,
+            "val_loss": 4.0118937492370605
+        },
+        {
+            "epoch": 2,
+            "train_accuracy": 0.09344181418418884,
+            "val_accuracy": 0.125,
+            "train_loss": 4.2470197677612305,
+            "val_loss": 3.691282033920288
+        },
+        {
+            "epoch": 3,
+            "train_accuracy": 0.10626232624053955,
+            "val_accuracy": 0.1267361044883728,
+            "train_loss": 3.9550604820251465,
+            "val_loss": 3.5482988357543945
+        },
+        {
+            "epoch": 4,
+            "train_accuracy": 0.11809664964675903,
+            "val_accuracy": 0.1258680522441864,
+            "train_loss": 3.778364419937134,
+            "val_loss": 3.448812484741211
+        },
+        {
+            "epoch": 5,
+            "train_accuracy": 0.12426035851240158,
+            "val_accuracy": 0.13686342537403107,
+            "train_loss": 3.641965389251709,
+            "val_loss": 3.378236770629883
+        },
+        {
+            "epoch": 6,
+            "train_accuracy": 0.13178007304668427,
+            "val_accuracy": 0.1397569477558136,
+            "train_loss": 3.5398757457733154,
+            "val_loss": 3.3386383056640625
+        },
+        {
+            "epoch": 7,
+            "train_accuracy": 0.13677267730236053,
+            "val_accuracy": 0.14554397761821747,
+            "train_loss": 3.467604637145996,
+            "val_loss": 3.296888589859009
+        },
+        {
+            "epoch": 8,
+            "train_accuracy": 0.1372041404247284,
+            "val_accuracy": 0.1449652761220932,
+            "train_loss": 3.404249906539917,
+            "val_loss": 3.272024154663086
+        },
+        {
+            "epoch": 9,
+            "train_accuracy": 0.15082593262195587,
+            "val_accuracy": 0.14380787312984467,
+            "train_loss": 3.333890438079834,
+            "val_loss": 3.2515194416046143
+        },
+        {
+            "epoch": 10,
+            "train_accuracy": 0.1609344184398651,
+            "val_accuracy": 0.14785879850387573,
+            "train_loss": 3.256230115890503,
+            "val_loss": 3.2349720001220703
+        },
+        {
+            "epoch": 11,
+            "train_accuracy": 0.16777613759040833,
+            "val_accuracy": 0.1501736044883728,
+            "train_loss": 3.212354898452759,
+            "val_loss": 3.2273621559143066
+        },
+        {
+            "epoch": 12,
+            "train_accuracy": 0.17597386240959167,
+            "val_accuracy": 0.1440972238779068,
+            "train_loss": 3.165861129760742,
+            "val_loss": 3.2160089015960693
+        },
+        {
+            "epoch": 13,
+            "train_accuracy": 0.18010355532169342,
+            "val_accuracy": 0.14612267911434174,
+            "train_loss": 3.1089556217193604,
+            "val_loss": 3.2180933952331543
+        },
+        {
+            "epoch": 14,
+            "train_accuracy": 0.1920611411333084,
+            "val_accuracy": 0.1484375,
+            "train_loss": 3.0698471069335938,
+            "val_loss": 3.20981764793396
+        },
+        {
+            "epoch": 15,
+            "train_accuracy": 0.19643737375736237,
+            "val_accuracy": 0.14901620149612427,
+            "train_loss": 3.013059616088867,
+            "val_loss": 3.192519187927246
+        },
+        {
+            "epoch": 16,
+            "train_accuracy": 0.20346400141716003,
+            "val_accuracy": 0.14525462687015533,
+            "train_loss": 2.9778225421905518,
+            "val_loss": 3.219816207885742
+        },
+        {
+            "epoch": 17,
+            "train_accuracy": 0.21394230425357819,
+            "val_accuracy": 0.14785879850387573,
+            "train_loss": 2.919105052947998,
+            "val_loss": 3.2035367488861084
+        },
+        {
+            "epoch": 18,
+            "train_accuracy": 0.22152367234230042,
+            "val_accuracy": 0.14988425374031067,
+            "train_loss": 2.8719661235809326,
+            "val_loss": 3.1975131034851074
+        },
+        {
+            "epoch": 19,
+            "train_accuracy": 0.22756409645080566,
+            "val_accuracy": 0.14641202986240387,
+            "train_loss": 2.8371729850769043,
+            "val_loss": 3.205979347229004
+        },
+        {
+            "epoch": 20,
+            "train_accuracy": 0.2413708120584488,
+            "val_accuracy": 0.14959490299224854,
+            "train_loss": 2.7800238132476807,
+            "val_loss": 3.2162537574768066
+        }
+    ],
+    "plot_file": "/content/drive/Shareddrives/deep learning/FACIAL_EMOTION_RECOGNITION/checkpoints/2025-06-01_12-46-22_2 convolutional blocks frozen/plot.png"
+}

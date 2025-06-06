@@ -1,0 +1,50 @@
+{
+    "timestamp": "2025-05-31_08-59-29",
+    "filename": "11_Ranks_amb_data_augmentation",
+    "note": "Rangs amb data augmentation -> millor acc: training 0.52 validation 0.47, despr\u00e9s overfitting",
+    "weights_file": "/content/drive/Shareddrives/deep learning/FACIAL_EMOTION_RECOGNITION/PROJECTE_COLLAB/training_checkpoints/2025-05-31_08-59-29_11_Ranks_amb_data_augmentation/weights.weights.h5",
+    "epochs": 5,
+    "final_train_accuracy": 0.5221545696258545,
+    "final_val_accuracy": 0.4294049143791199,
+    "final_train_loss": 1.154488444328308,
+    "final_val_loss": 1.2705069780349731,
+    "best_val_accuracy": 0.4311552047729492,
+    "epoch_data": [
+        {
+            "epoch": 1,
+            "train_accuracy": 0.5179811120033264,
+            "val_accuracy": 0.4311552047729492,
+            "train_loss": 1.1651874780654907,
+            "val_loss": 1.27341628074646
+        },
+        {
+            "epoch": 2,
+            "train_accuracy": 0.51609867811203,
+            "val_accuracy": 0.4299883246421814,
+            "train_loss": 1.1616034507751465,
+            "val_loss": 1.2721498012542725
+        },
+        {
+            "epoch": 3,
+            "train_accuracy": 0.5207870602607727,
+            "val_accuracy": 0.4311552047729492,
+            "train_loss": 1.157481074333191,
+            "val_loss": 1.2723039388656616
+        },
+        {
+            "epoch": 4,
+            "train_accuracy": 0.5177147388458252,
+            "val_accuracy": 0.42823803424835205,
+            "train_loss": 1.1614658832550049,
+            "val_loss": 1.2730960845947266
+        },
+        {
+            "epoch": 5,
+            "train_accuracy": 0.5221545696258545,
+            "val_accuracy": 0.4294049143791199,
+            "train_loss": 1.154488444328308,
+            "val_loss": 1.2705069780349731
+        }
+    ],
+    "plot_file": "/content/drive/Shareddrives/deep learning/FACIAL_EMOTION_RECOGNITION/PROJECTE_COLLAB/training_checkpoints/2025-05-31_08-59-29_11_Ranks_amb_data_augmentation/plot.png"
+}

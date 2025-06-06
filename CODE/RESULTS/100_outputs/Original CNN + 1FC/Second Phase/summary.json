@@ -1,0 +1,260 @@
+{
+    "timestamp": "2025-05-28_15-04-18",
+    "filename": "finetune_last_15_layers_canvi_arquitectura_millora",
+    "note": "Descongelades 15 \u00faltimes capes CNN amb lr = 1e-5 i 35 \u00e8poques ",
+    "weights_file": "/content/drive/Shareddrives/deep learning/FACIAL_EMOTION_RECOGNITION/PROJECTE_COLLAB/training_checkpoints/2025-05-28_15-04-18_finetune_last_15_layers_canvi_arquitectura_millora/weights.weights.h5",
+    "epochs": 35,
+    "final_train_accuracy": 0.3677268326282501,
+    "final_val_accuracy": 0.5454282164573669,
+    "final_train_loss": 2.2888576984405518,
+    "final_val_loss": 1.774122714996338,
+    "best_val_accuracy": 0.5494791865348816,
+    "epoch_data": [
+        {
+            "epoch": 1,
+            "train_accuracy": 0.3155818581581116,
+            "val_accuracy": 0.5260416865348816,
+            "train_loss": 2.634479284286499,
+            "val_loss": 1.8283742666244507
+        },
+        {
+            "epoch": 2,
+            "train_accuracy": 0.3206360936164856,
+            "val_accuracy": 0.5271990895271301,
+            "train_loss": 2.5888381004333496,
+            "val_loss": 1.8152801990509033
+        },
+        {
+            "epoch": 3,
+            "train_accuracy": 0.3201429843902588,
+            "val_accuracy": 0.5326967835426331,
+            "train_loss": 2.580209732055664,
+            "val_loss": 1.8106359243392944
+        },
+        {
+            "epoch": 4,
+            "train_accuracy": 0.32180720567703247,
+            "val_accuracy": 0.5335648059844971,
+            "train_loss": 2.558403253555298,
+            "val_loss": 1.81312894821167
+        },
+        {
+            "epoch": 5,
+            "train_accuracy": 0.32945019006729126,
+            "val_accuracy": 0.5370370149612427,
+            "train_loss": 2.540771484375,
+            "val_loss": 1.81766676902771
+        },
+        {
+            "epoch": 6,
+            "train_accuracy": 0.3293885588645935,
+            "val_accuracy": 0.5367476940155029,
+            "train_loss": 2.520376682281494,
+            "val_loss": 1.801825761795044
+        },
+        {
+            "epoch": 7,
+            "train_accuracy": 0.3283407390117645,
+            "val_accuracy": 0.5393518805503845,
+            "train_loss": 2.5000879764556885,
+            "val_loss": 1.8078826665878296
+        },
+        {
+            "epoch": 8,
+            "train_accuracy": 0.3305596709251404,
+            "val_accuracy": 0.5399305820465088,
+            "train_loss": 2.494863748550415,
+            "val_loss": 1.7958555221557617
+        },
+        {
+            "epoch": 9,
+            "train_accuracy": 0.33401134610176086,
+            "val_accuracy": 0.5454282164573669,
+            "train_loss": 2.487962245941162,
+            "val_loss": 1.7989106178283691
+        },
+        {
+            "epoch": 10,
+            "train_accuracy": 0.34140780568122864,
+            "val_accuracy": 0.5381944179534912,
+            "train_loss": 2.461113929748535,
+            "val_loss": 1.7900419235229492
+        },
+        {
+            "epoch": 11,
+            "train_accuracy": 0.33505916595458984,
+            "val_accuracy": 0.5457175970077515,
+            "train_loss": 2.4671976566314697,
+            "val_loss": 1.787916660308838
+        },
+        {
+            "epoch": 12,
+            "train_accuracy": 0.3357371687889099,
+            "val_accuracy": 0.5457175970077515,
+            "train_loss": 2.460946559906006,
+            "val_loss": 1.788465142250061
+        },
+        {
+            "epoch": 13,
+            "train_accuracy": 0.3436267375946045,
+            "val_accuracy": 0.5425347089767456,
+            "train_loss": 2.4449148178100586,
+            "val_loss": 1.8008557558059692
+        },
+        {
+            "epoch": 14,
+            "train_accuracy": 0.3406681418418884,
+            "val_accuracy": 0.5451388955116272,
+            "train_loss": 2.4231057167053223,
+            "val_loss": 1.7802938222885132
+        },
+        {
+            "epoch": 15,
+            "train_accuracy": 0.34430474042892456,
+            "val_accuracy": 0.5407986044883728,
+            "train_loss": 2.4285812377929688,
+            "val_loss": 1.7883450984954834
+        },
+        {
+            "epoch": 16,
+            "train_accuracy": 0.347324937582016,
+            "val_accuracy": 0.5434027910232544,
+            "train_loss": 2.407471179962158,
+            "val_loss": 1.7900583744049072
+        },
+        {
+            "epoch": 17,
+            "train_accuracy": 0.34658530354499817,
+            "val_accuracy": 0.5445601940155029,
+            "train_loss": 2.414520263671875,
+            "val_loss": 1.7854264974594116
+        },
+        {
+            "epoch": 18,
+            "train_accuracy": 0.3508382737636566,
+            "val_accuracy": 0.5445601940155029,
+            "train_loss": 2.3988964557647705,
+            "val_loss": 1.7775975465774536
+        },
+        {
+            "epoch": 19,
+            "train_accuracy": 0.34800297021865845,
+            "val_accuracy": 0.5457175970077515,
+            "train_loss": 2.3895578384399414,
+            "val_loss": 1.7839521169662476
+        },
+        {
+            "epoch": 20,
+            "train_accuracy": 0.347078412771225,
+            "val_accuracy": 0.5442708134651184,
+            "train_loss": 2.400541067123413,
+            "val_loss": 1.7742998600006104
+        },
+        {
+            "epoch": 21,
+            "train_accuracy": 0.35089990496635437,
+            "val_accuracy": 0.5439814925193787,
+            "train_loss": 2.3781931400299072,
+            "val_loss": 1.7868980169296265
+        },
+        {
+            "epoch": 22,
+            "train_accuracy": 0.35398176312446594,
+            "val_accuracy": 0.5422453880310059,
+            "train_loss": 2.3684210777282715,
+            "val_loss": 1.8022843599319458
+        },
+        {
+            "epoch": 23,
+            "train_accuracy": 0.354659765958786,
+            "val_accuracy": 0.5410879850387573,
+            "train_loss": 2.3597123622894287,
+            "val_loss": 1.7914427518844604
+        },
+        {
+            "epoch": 24,
+            "train_accuracy": 0.3512697219848633,
+            "val_accuracy": 0.5462962985038757,
+            "train_loss": 2.3572282791137695,
+            "val_loss": 1.7765752077102661
+        },
+        {
+            "epoch": 25,
+            "train_accuracy": 0.3550295829772949,
+            "val_accuracy": 0.5434027910232544,
+            "train_loss": 2.343282699584961,
+            "val_loss": 1.7848196029663086
+        },
+        {
+            "epoch": 26,
+            "train_accuracy": 0.35601577162742615,
+            "val_accuracy": 0.5405092835426331,
+            "train_loss": 2.3405063152313232,
+            "val_loss": 1.7958406209945679
+        },
+        {
+            "epoch": 27,
+            "train_accuracy": 0.35971400141716003,
+            "val_accuracy": 0.5402199029922485,
+            "train_loss": 2.3424265384674072,
+            "val_loss": 1.800189733505249
+        },
+        {
+            "epoch": 28,
+            "train_accuracy": 0.3586045503616333,
+            "val_accuracy": 0.5448495149612427,
+            "train_loss": 2.3275251388549805,
+            "val_loss": 1.7735918760299683
+        },
+        {
+            "epoch": 29,
+            "train_accuracy": 0.369144469499588,
+            "val_accuracy": 0.5465856194496155,
+            "train_loss": 2.3183536529541016,
+            "val_loss": 1.7721463441848755
+        },
+        {
+            "epoch": 30,
+            "train_accuracy": 0.3603920042514801,
+            "val_accuracy": 0.5416666865348816,
+            "train_loss": 2.332106113433838,
+            "val_loss": 1.7845838069915771
+        },
+        {
+            "epoch": 31,
+            "train_accuracy": 0.36261093616485596,
+            "val_accuracy": 0.5494791865348816,
+            "train_loss": 2.3237900733947754,
+            "val_loss": 1.7718545198440552
+        },
+        {
+            "epoch": 32,
+            "train_accuracy": 0.3667406439781189,
+            "val_accuracy": 0.5439814925193787,
+            "train_loss": 2.3074874877929688,
+            "val_loss": 1.786525011062622
+        },
+        {
+            "epoch": 33,
+            "train_accuracy": 0.36883628368377686,
+            "val_accuracy": 0.5477430820465088,
+            "train_loss": 2.2837300300598145,
+            "val_loss": 1.7790406942367554
+        },
+        {
+            "epoch": 34,
+            "train_accuracy": 0.3720414340496063,
+            "val_accuracy": 0.5419560074806213,
+            "train_loss": 2.295639991760254,
+            "val_loss": 1.7875711917877197
+        },
+        {
+            "epoch": 35,
+            "train_accuracy": 0.3677268326282501,
+            "val_accuracy": 0.5454282164573669,
+            "train_loss": 2.2888576984405518,
+            "val_loss": 1.774122714996338
+        }
+    ],
+    "plot_file": "/content/drive/Shareddrives/deep learning/FACIAL_EMOTION_RECOGNITION/PROJECTE_COLLAB/training_checkpoints/2025-05-28_15-04-18_finetune_last_15_layers_canvi_arquitectura_millora/plot.png"
+}

@@ -1,0 +1,85 @@
+{
+    "timestamp": "2025-05-28_14-14-05",
+    "filename": "finetune_last_15_layers_canvi arquitectura",
+    "note": "CANVI ARQUITECTURA descongelades 15 \u00faltimes capes CNN amb lr = 0.001 i 10 \u00e8poques ",
+    "weights_file": "/content/drive/Shareddrives/deep learning/FACIAL_EMOTION_RECOGNITION/PROJECTE_COLLAB/training_checkpoints/2025-05-28_14-14-05_finetune_last_15_layers_canvi arquitectura/weights.weights.h5",
+    "epochs": 10,
+    "final_train_accuracy": 0.3963264226913452,
+    "final_val_accuracy": 0.1501736044883728,
+    "final_train_loss": 2.0208590030670166,
+    "final_val_loss": 3.5299177169799805,
+    "best_val_accuracy": 0.1649305522441864,
+    "epoch_data": [
+        {
+            "epoch": 1,
+            "train_accuracy": 0.2435281127691269,
+            "val_accuracy": 0.1649305522441864,
+            "train_loss": 2.643291711807251,
+            "val_loss": 3.1086461544036865
+        },
+        {
+            "epoch": 2,
+            "train_accuracy": 0.2557322382926941,
+            "val_accuracy": 0.16087962687015533,
+            "train_loss": 2.5802910327911377,
+            "val_loss": 3.1084506511688232
+        },
+        {
+            "epoch": 3,
+            "train_accuracy": 0.2639916241168976,
+            "val_accuracy": 0.16030092537403107,
+            "train_loss": 2.5132861137390137,
+            "val_loss": 3.1609060764312744
+        },
+        {
+            "epoch": 4,
+            "train_accuracy": 0.2853180468082428,
+            "val_accuracy": 0.1614583283662796,
+            "train_loss": 2.4418678283691406,
+            "val_loss": 3.2068545818328857
+        },
+        {
+            "epoch": 5,
+            "train_accuracy": 0.300542414188385,
+            "val_accuracy": 0.1571180522441864,
+            "train_loss": 2.3870913982391357,
+            "val_loss": 3.236013889312744
+        },
+        {
+            "epoch": 6,
+            "train_accuracy": 0.3240261375904083,
+            "val_accuracy": 0.15509259700775146,
+            "train_loss": 2.3022804260253906,
+            "val_loss": 3.2706573009490967
+        },
+        {
+            "epoch": 7,
+            "train_accuracy": 0.33962032198905945,
+            "val_accuracy": 0.1510416716337204,
+            "train_loss": 2.229444980621338,
+            "val_loss": 3.3232874870300293
+        },
+        {
+            "epoch": 8,
+            "train_accuracy": 0.3639669716358185,
+            "val_accuracy": 0.14641202986240387,
+            "train_loss": 2.14223575592041,
+            "val_loss": 3.416623830795288
+        },
+        {
+            "epoch": 9,
+            "train_accuracy": 0.39361441135406494,
+            "val_accuracy": 0.14814814925193787,
+            "train_loss": 2.0558412075042725,
+            "val_loss": 3.490787982940674
+        },
+        {
+            "epoch": 10,
+            "train_accuracy": 0.3963264226913452,
+            "val_accuracy": 0.1501736044883728,
+            "train_loss": 2.0208590030670166,
+            "val_loss": 3.5299177169799805
+        }
+    ],
+    "plot_file": "/content/drive/Shareddrives/deep learning/FACIAL_EMOTION_RECOGNITION/PROJECTE_COLLAB/training_checkpoints/2025-05-28_14-14-05_finetune_last_15_layers_canvi arquitectura/plot.png"
+}
